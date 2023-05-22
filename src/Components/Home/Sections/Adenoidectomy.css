@@ -1,0 +1,37 @@
+.n{
+    background-color:#FFF8F7; ;
+    display: flex;
+    justify-content: center;
+    
+}
+.pp22{
+    margin: 9px;
+}
+.po222{
+    margin: 7px;
+}
+.ho{
+    padding: 100px;
+    justify-content: center;
+    text-align: center;
+}
+.Bu{
+   text-align: center;
+}
+
+@media screen and (max-width: 850px) {
+  
+    
+   
+   
+    
+}
+@media screen and (max-width: 550px) {
+    
+    .ho {
+        padding: 1px;
+    }
+   
+   
+    
+}

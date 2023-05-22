@@ -1,0 +1,102 @@
+.hr{
+    height: 65px;
+    width: 3px;
+    background-color: black;
+    /* border: 2px solid red; */
+
+}
+.red{
+    color: red;
+}
+.Book{
+    /* display: flex; */
+    justify-content: center;
+    /* margin-left: 40%; */
+    margin-top: 90px;
+    padding-top: 10px;
+    /* padding: 10px; */
+    margin: auto;
+    /* border: 3px solid green; */
+    width: 30%;
+    text-align: center;
+    margin-bottom: 10px;
+    /* border: 2px solid red; */
+margin-top: 10px;
+    height: 300px;
+    
+}
+/* .E{
+    margin-left: 110px;
+} */
+.H{
+    /* border: 2px solid red; */
+
+    margin-left: 15px;
+}
+
+.bo12{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    margin-top: -425px;
+    /* border: 2px solid red; */
+
+
+
+}
+.banner2{
+    height:420px;
+    /* border: 2px solid red; */
+    margin-top: 140px;
+    /* background-image: url("./shape1..svg"); */
+    /* background-color: bisque; */
+    /* background-position: center; */
+   
+}
+.banner{
+    /* height:420px; */
+    /* border: 2px solid red; */
+    /* margin-top: 140px; */
+    /* background-image: url("./shape1..svg"); */
+    /* background-color: bisque; */
+    /* background-position: center; */
+   
+}
+.imgg{
+    /* background-image: url("./shape1..svg");  */
+    background-size: cover;
+    height: 420px;
+    width: 126%;
+    /* margin-top: 0px; */
+    background-size: cover;
+    margin-left: -186px;
+    background-repeat: no-repeat;
+
+}
+.love1{
+    background-image: url(./shape1..svg);
+    background-size: cover;
+    height: 420px;
+    /* width: 126%; */
+    /* background-color: antiquewhite; */
+    margin-top: 280px;
+    border: 2px solid rgb(251, 249, 249);
+
+}
+
+
+@media screen and (max-width: 850px) {
+  
+    
+   
+   
+    
+}
+@media screen and (max-width: 550px) {
+    
+    
+   
+   
+    
+}
+

@@ -1,0 +1,11 @@
+
+    
+  .text{
+    display: inline;
+    /* width: 100%; */
+  }
+    
+  .read-or-hide{
+    color: rgb(245, 10, 10);
+    cursor: pointer;
+  }

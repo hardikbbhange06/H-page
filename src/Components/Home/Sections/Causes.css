@@ -1,0 +1,47 @@
+.me11{
+  justify-content: center;
+    text-align: center;
+    /* border: 2px solid red; */
+
+  }
+  .red11{
+    border-bottom: 2px solid red;
+  }
+
+  .cc11{
+    justify-content: center;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    /* justify-content: space-between; */
+  }
+  .bucc11{
+      margin-right: 40px;
+      /* justify-content: center; */
+      /* margin-left: 40px; */
+  }
+  .Bu11{
+    text-align: center;
+
+  }
+
+  @media screen and (max-width: 850px) {
+    .Bu11{
+        text-align: center;
+        /* width: 50px; */
+        width: 850px;
+      }
+
+    
+   
+   
+    
+}
+
+@media screen and (max-width: 550px) {
+    .Bu11{
+        text-align: center;
+        /* width: 50px; */
+        width: 315px;
+      }
+    }

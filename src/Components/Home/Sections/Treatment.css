@@ -1,0 +1,33 @@
+.bbox11{
+    background-color: aqua;
+    text-decoration: underline;
+  }
+.imgbox11{
+    width: 300px;
+    border: 2px solid red;
+  }
+  .shu11{
+    justify-content: center;
+    border: 2px solid red;
+  }
+
+  @media screen and (max-width: 850px){
+.Bu11 {
+    text-align: center;
+    /* width: 50px; */
+    /* width: 850px; */
+    margin-left: 10pc;
+}
+
+.css-1i7iluk-MuiPaper-root-MuiCard-root {
+    width: 550px;
+  }
+}
+
+  @media screen and (max-width: 550px){
+    .Bu11 {
+        text-align: center;
+        /* width: 50px; */
+        width: 550px;
+    }
+      }

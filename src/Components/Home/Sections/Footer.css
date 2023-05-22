@@ -1,0 +1,28 @@
+.roww{
+    display: flex; 
+    padding: 100px;
+   justify-content: space-between;
+}
+.footer{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: brown;
+    color:white;
+    margin-top:110px;
+    text-align: left;
+}
+.footer ul li a{
+    color: white;
+}
+.footer ul li a:hover{
+    color: rgb(58, 11, 244);
+}
+.iiii{
+    color: antiquewhite;
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 10%;
+}
+.nav-link {
+text-decoration: none;
+}
